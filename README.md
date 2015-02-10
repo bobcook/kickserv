@@ -1,6 +1,12 @@
 Kickserv
 ================
 
+This application is a homework assignment from Kickserv.  It uses ImageMagick with RMagic for the Heroku Deploy and the Paperclip gem from Thoughtbot.
+
+I added a field called image_size thinking I could use it instead of the default :medium => "300X300>"
+
+I deployed it to heroku.
+
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
