@@ -5,7 +5,7 @@ This application is a homework assignment from Kickserv.  It uses ImageMagick wi
 
 I added a field called image_size thinking I could use it instead of the default :medium => "300X300>"
 
-I deployed it to heroku.
+I deployed it to heroku https://shrouded-meadow-8752.herokuapp.com/
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
